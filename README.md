@@ -45,12 +45,3 @@ Additionally, effects of varying parameters were studied:
 - Parameter tuning (e.g., filter length, IFFT size) directly impacts spectral characteristics.  
 
 
----
-
-## 📚 References
-- [OFDM Basics – GeeksforGeeks](https://www.geeksforgeeks.org/orthogonal-frequency-division-multiplexing-ofdm/)  
-- [OFDM Explanation – LinkedIn Article](https://www.linkedin.com/pulse/ofdm-orthogonal-frequency-division-multiplexing-fpgas-juan-abelaira)  
-- [Research Article on UFMC – Springer](https://link.springer.com/chapter/10.1007/978-981-16-6624-7_35)  
-- [YouTube: OFDM vs UFMC](https://www.youtube.com/watch?v=zhMST8bX_fY)  
-- [MathWorks: UFMC vs OFDM](https://www.mathworks.com/help/comm/ug/ufmc-vs-ofdm-modulation.html)  
-
